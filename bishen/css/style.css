@@ -284,6 +284,8 @@ h1, h2, h3, h4, h5, h6, figure {
   font-weight: 400;
 }
 
+
+
 #fh5co-hero {
   min-height: 630px;
   height: 630px;
@@ -493,7 +495,7 @@ h1, h2, h3, h4, h5, h6, figure {
   background-size: cover;
   background-attachment: fixed;
   background-position: center center;
-  position: relative;
+  
 }
 .fh5co-counters .overlay {
   position: absolute;
