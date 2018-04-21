@@ -11,9 +11,12 @@ h2{
 
 p{
     
-    font-family: 微软雅黑;
+    color: #000;
+    font-weight: 300;
     font-size: 16px;
 }
+
+
 
 .table-border {
     
@@ -87,5 +90,5 @@ p{
 .btn{
     margin-left: 50px;
     width: 160px;
-    color: green;
+    background-color: green;
 }
