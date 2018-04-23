@@ -350,6 +350,7 @@ h1, h2, h3, h4, h5, h6, figure {
 #fh5co-hero .flexslider .flex-control-nav li a.flex-active {
   cursor: pointer;
   background: rgba(255, 255, 255, 0.7);
+  color: lime;
 }
 #fh5co-hero .flexslider .flex-direction-nav {
   display: none;
@@ -388,8 +389,8 @@ h1, h2, h3, h4, h5, h6, figure {
   margin-bottom: 30px;
   font-family: "Source Sans Pro", Arial, sans-serif;
 }
-#fh5co-hero .flexslider .slider-text > .slider-text-inner h2 a {
-  color: rgba(255, 255, 255, 0.5);
+#fh5co-hero .flexslider .slider-text > .slider-text-inner  a {
+  color: white;
 }
 #fh5co-hero .flexslider .slider-text > .slider-text-inner .btn {
   padding: 18px 30px !important;
@@ -1481,7 +1482,7 @@ h1, h2, h3, h4, h5, h6, figure {
 }
 
 .btn-primary {
-  background: #2D6CDF;
+  
   color: #fff;
   border: 2px solid #2D6CDF;
 }
