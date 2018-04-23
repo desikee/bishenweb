@@ -126,7 +126,7 @@ p{
 }
 
 .program-img-little{
-    width: 80%;
+    width: 60%;
     height: 30%;
     margin-left: 30px;
 }
@@ -150,17 +150,19 @@ p{
     font-size: 40px;
     margin-left: 30px;
     margin-top: 40px;
+    margin-bottom: 40px;
 }
 
 
 
 .program ul li p {
     font-size: 25px;
+    margin-top: 40px;
 }
 
 .program-img-big {
-    width: 70%;
-    height: 60%;
+    width: 50%;
+    height: 40%;
     
 }
 
