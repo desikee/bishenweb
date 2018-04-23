@@ -182,9 +182,9 @@ h1, h2, h3, h4, h5, h6, figure {
   padding: 0;
   margin: 0;
   list-style: none;
-  display: inline;
+  display: inline-block;
   font-weight: 300;
-  float: left;
+  
   
   
 }
@@ -299,7 +299,7 @@ h1, h2, h3, h4, h5, h6, figure {
 
 
 #fh5co-hero {
-  min-height: 630px;
+  
   height: 730px;
   background: #fff url(../images/loader.gif) no-repeat center center;
 }
@@ -321,8 +321,8 @@ h1, h2, h3, h4, h5, h6, figure {
 #fh5co-hero .flexslider .slides li {
   background-repeat: no-repeat;
   background-size: cover;
-  background-position: bottom center;
-  min-height: 630px;
+  background-position: center center;
+  
   height: 730px;
   position: relative;
 }
@@ -659,7 +659,7 @@ h1, h2, h3, h4, h5, h6, figure {
   left: 0;
   top: .05em;
   font-family: 'icomoon';
-  speak: none;
+ 
   font-style: normal;
   font-weight: normal;
   font-variant: normal;
@@ -1126,7 +1126,7 @@ h1, h2, h3, h4, h5, h6, figure {
   background: rgba(0, 0, 0, 0.1);
 }
 #fh5co-gallery h2 span:before {
-  lett: 0;
+  left:  0;
   margin-left: -125px;
 }
 #fh5co-gallery h2 span:after {
@@ -1278,7 +1278,7 @@ h1, h2, h3, h4, h5, h6, figure {
   position: absolute;
   right: 0px;
   font-family: 'icomoon';
-  speak: none;
+  
   font-style: normal;
   font-weight: normal;
   font-variant: normal;
