@@ -179,15 +179,20 @@ p{
 .paper{
    
     border-bottom: 1px solid gray;
+    padding-bottom: 10px;
 }
 
 .paper-introduce {
     
-    
+    border:2px solid green;
+    border-radius: 15px;
+    margin-left: 15px;
+    padding: 10px;
+    width: 31%;
     
 }
 .paper-introduce img{
-    width: 80%;
+    width: 100%;
     height: 50%;
 
 }
