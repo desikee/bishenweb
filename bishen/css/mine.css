@@ -116,11 +116,10 @@ p{
     background-repeat: no-repeat;
 }
 
-.program-h2{
+.title{
     margin-top: 30px;
     margin-bottom: 30px;
     font-size: 30px;
-    font-family: 微软雅黑;
     text-align: center;
     color: blue;
 }
@@ -176,3 +175,31 @@ p{
     background-position: center center;
     background-repeat: no-repeat;
 }
+
+.paper{
+   
+    border-bottom: 1px solid gray;
+}
+
+.paper-introduce {
+    
+    
+    
+}
+.paper-introduce img{
+    width: 80%;
+    height: 50%;
+
+}
+
+.paper-pain img{
+    width: 100%;
+    height: 60%;
+}
+
+.paper-pain table tr td{
+
+}
+
+
+
