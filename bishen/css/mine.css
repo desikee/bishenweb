@@ -66,12 +66,9 @@ p{
     padding: 0,0,0,0;
 }
 
-.team td .img{
-    width: 50px;
-}
 
 .team table tr td img{
-    width: 50%;
+    width: 110%;
     height: 35%;
 }
 
