@@ -213,6 +213,7 @@ p{
     background-color: lightgreen;
     margin-top: 20px;
     margin-bottom: 20px;
+    border-radius: 15px;
 }
 
 .paper-content h3{
@@ -227,6 +228,7 @@ p{
     margin-top: 20px;
     margin-bottom: 20px;
     background-color: lightblue;
+    border-radius: 15px;
 }
 
 .paper-process h3{
@@ -237,4 +239,15 @@ p{
     font-size:20px;
     font-weight: 500;
     color:green;
+}
+
+.paper-case-table td img{
+    width: 250px;
+    height: 350px;
+    
+    border:3px solid green;
+    margin-left:200px;
+    margin-right: 50px;
+    margin-top: 10px;
+    margin-bottom: 10px;
 }
