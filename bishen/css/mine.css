@@ -203,5 +203,38 @@ p{
 
 }
 
+.paper-content{
+    width: 300px;
+    height: 200px;
+    margin-left: 100px;
+    margin-right: 100px;
+    border:2px solid gray;
+    padding: 20px;
+    background-color: lightgreen;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
 
+.paper-content h3{
+    text-align: center;
+}
 
+.paper-process{
+    width: 250px;
+    height: 150px;
+    border:2px solid gray;
+    padding: 20px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    background-color: lightblue;
+}
+
+.paper-process h3{
+    text-align: center;
+}
+
+.paper-th  th{
+    font-size:20px;
+    font-weight: 500;
+    color:green;
+}
