@@ -288,3 +288,69 @@ p{
     height: 170px;
 }
 
+.research-case{
+    margin-bottom: 40px;
+}
+
+.research-case h3{
+    text-align: center;
+}
+.research-case td{
+    border-top:3px dotted lightgreen;
+    border-left: 3px dotted lightgreen;
+
+}
+
+.research-case table h3{
+    width: 200px;  
+    text-align: center; 
+}
+
+.research-case .table-head{
+    border-top: 0px;
+}
+
+.research-case .right{
+    border-right: 3px dotted lightgreen;
+}
+
+.research-case .bottom{
+    border-bottom: 3px dotted lightgreen;
+}
+
+.research-case-img img{
+    width: 90%;
+    height: 90%;
+    border:2px solid gray;
+    margin-left: 15px;
+}
+
+.research-case-img h4{
+    text-align: center;
+}
+
+.research-process td{
+    width: 150px;
+    border:2px solid gray;
+    background-color: lightgreen;
+}
+.research-process table{
+    border-spacing: 65px;
+}
+
+.research-good img{
+    width: 80%;
+    height: 50%;
+}
+.research-good p{
+    font-weight: 500px;
+    font-size: 20px;
+    background-color:lightgreen;
+    margin-top: 30px;
+}
+
+.research-good ul li p{
+    font-weight: 400px;
+    font-size: 16px;
+    background-color: hsl(0.0, 0.0%, 100.0%);
+}
