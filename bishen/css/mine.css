@@ -1,8 +1,13 @@
 @charset "UTF-8";
 h2, h3, h4{
     
-    font-family: "微软雅黑"
+    font-family: "冬青黑体"
 }
+
+h2{
+    color:#0066B9;
+}
+
 .para{
     text-align: left;
     text-indent: 24pt;
@@ -15,7 +20,14 @@ p{
     color: #000;
     font-weight: 300;
     font-size: 16px;
-    font-family: "微软雅黑";
+    font-family: "冬青黑体";
+}
+
+nav-btn{
+    color: #0066B9;
+    border-width: 2px;
+    font-size: 16px;
+    border-radius: 15px;
 }
 
 
@@ -97,8 +109,8 @@ p{
 .form {
     
     padding: 10px;
-    margin-left: 400px;
-    margin-right: 400px;
+    margin-left: 350px;
+    margin-right: 350px;
     margin-top:150px;
     margin-bottom:200px; 
     
@@ -108,8 +120,8 @@ p{
     margin-top: 10px;
 }
 .form form{
-    margin-left: 10%;
-    margin-right: 10%;
+    margin-left: 20%;
+    margin-right: 20%;
 }
 
 
@@ -117,8 +129,8 @@ p{
 .botton{
     margin-left: 80px;
     width: 100px;
-    background-color: lightgreen;
-    border: 1px solid green;
+    background-color: #84bc27;
+    border: 0px solid green;
     border-radius: 15px;
     color: black;
     font-weight: 1000;
