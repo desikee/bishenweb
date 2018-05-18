@@ -33,7 +33,7 @@ nav-btn{
 
 .culture-border{
     border:3px solid green;
-    height: 400px;
+    height: 350px;
     border-radius: 15px;
     width: 300px;
     margin-bottom: 50px;
@@ -49,6 +49,7 @@ nav-btn{
 .culture-border p {
     font-size: 20px;
     margin-top: 30px;
+    padding: 5px;
 }
 
 .table-border {
@@ -83,12 +84,16 @@ nav-btn{
 }
 .table-img table tr td span{
     margin-left: 20px;
+    color:#0066B9;
+    font-family: "冬青黑体";
 }
 
 .table-img table tr td img{
     
-    width:50px;
+    width:48px;
     height:50px;
+    color: #84bc27;
+    margin-left:50px;
 }
 
 .team table{
@@ -383,14 +388,15 @@ nav-btn{
 }
 
 .research-good img{
-    width: 80%;
-    height: 50%;
+    width: 500px;
+    height: 500px;
+    
 }
 .research-good p{
     font-weight: 500px;
     font-size: 20px;
-    background-color:lightgreen;
-    margin-top: 30px;
+    text-align: center;
+    
 }
 
 .research-good ul li p{
@@ -402,4 +408,11 @@ nav-btn{
 .contact{
     border-bottom: 1px solid gray;
     padding-bottom: 10px;
+}
+
+.footer-bg{
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    height: 400px;
 }
