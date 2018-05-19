@@ -410,6 +410,19 @@ nav-btn{
     padding-bottom: 10px;
 }
 
+.about-introduce table{
+    border-spacing: 30px;
+}
+.about-introduce h3{
+    font-family: "冬青黑体";
+    display: inline;
+}
+
+.about-introduce img{
+    width:70px;
+    height:70px;
+}
+
 .footer-bg{
     background-repeat: no-repeat;
     background-size: cover;
